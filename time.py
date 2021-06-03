@@ -7,4 +7,3 @@ for h in range(n+1):
             if "3" in str(h) + str(m) + str(s):
                 count += 1
 print(count)
-print(h,"+",m,"+",s)
